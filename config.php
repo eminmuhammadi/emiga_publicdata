@@ -1,11 +1,11 @@
 <?php
 require_once(realpath($_SERVER["DOCUMENT_ROOT"]) .'/cache_control.php');
 
-$server_address=" ";
-$secure_server_address=" ";
+$server_address=" "; /* https (default https)*/
+$secure_server_address=" "; /* https (default https)*/
 
-$adsense=" ";
-$ganalytics=" ";
+$adsense=" "; /* Google Adsense */
+$ganalytics=" "; /* Google Analytics */
 
 $google_map_api_key=" ";/*maps.google.com*/
 $who_api_key=" ";/*whoapi.com/api*/
