@@ -29,10 +29,10 @@ git clone https://github.com/eminmuhammadi/publicdata_emiga
 
 * **Emin Muhammadi** - *Initial work* - [EminMuhammadi](https://github.com/eminmuhammadi)
 
-See also the list of [contributors](https://github.com/eminmuhammadi/opencrypt_emiga/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/eminmuhammadi/publicdata_emiga/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
 
 
